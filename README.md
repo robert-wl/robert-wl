@@ -2,7 +2,7 @@
 <hr />
 <p style="font-size: 1rem">
   I'm an undergraduate computer science student passionate about
-  <strong>Software Development</strong>, <strong>Web Technologies</strong> and <strong>Artifical Intelligence</strong>. I enjoy exploring new
+  <strong>Software Development</strong>, <strong>Web Technologies</strong>, <strong>Dev Ops</strong> and <strong>Artifical Intelligence</strong>. I enjoy exploring new
   technologies, collaborating with others, and learn new things through projects.
 </p>
 
