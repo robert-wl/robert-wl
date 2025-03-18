@@ -211,7 +211,7 @@
     <img
       alt="flask"
       height="40"
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
       width="40" />
   </a>
   <a
@@ -338,11 +338,12 @@
     href="https://tailwindcss.com/"
     rel="noreferrer"
     target="_blank">
-    <img
+    <img 
       alt="tailwind"
       height="40"
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      width="40" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+      width="40"
+    />
   </a>
   <a
     href="https://scikit-learn.org/"
@@ -364,6 +365,137 @@
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
       width="40" />
   </a>
+  <a
+    href="https://kafka.apache.org"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="kafka"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
+      width="40" />
+  </a>
+ <a
+    href="https://risingwave.com"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="risingwave"
+      height="40"
+      src="https://d7umqicpi7263.cloudfront.net/img/product/cf44cd46-40d8-484c-a7e4-9777b7cdba42.com/48fa3beb796c991ced4b7f025b2981fa"
+      width="40" />
+  </a>
+  <a
+    href="https://debezium.io"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="debezium"
+      height="40"
+      src="https://camo.githubusercontent.com/ec9198c7fc32cb3537644b5fed366bc00db7d4e4212e52ef866a7e4099394b0e/68747470733a2f2f6d656469612e6772617068636d732e636f6d2f49726a6b6c41696a52766131734654617430704f" />
+  </a>
+  <a
+    href="https://www.elastic.co/elasticsearch"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="elasticsearch"
+      height="40"
+      src="https://www.nuget.org/profiles/elasticsearch/avatar?imageSize=512"/>
+  </a>
+  <a
+    href="https://www.elastic.co/kibana"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="kibana"
+      height="40"
+      src="https://img.icons8.com/color/600/kibana.png"/>
+  </a>
+  <a
+    href="https://flink.apache.org"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Apache Flink"
+      height="40"
+      src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png"/>
+  </a>
+    <a
+    href="https://github.com/features/actions"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Github Actions"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg"/>
+  </a>
+    <a
+    href="https://prometheus.io/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Prometheus"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"/>
+  </a>
+    <a
+    href="https://grafana.com/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Grafana"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"/>
+  </a>
+      <a
+    href="https://docs.ansible.com"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Ansible"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"/>
+  </a>
+    <a
+    href="https://spring.io/projects/spring-boot"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Spring Boot"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  </a>
+    <a
+    href="https://astro.build"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="AstroJS"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"/>
+  </a>
+    <a
+    href="https://svelte.dev"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Svelte"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"/>
+  </a>
+
+
+  
+
+
+  
+
+
+  
+
+
+  
 </p>
 
 <p>
