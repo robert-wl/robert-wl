@@ -200,8 +200,9 @@
     target="_blank">
     <img
       alt="express"
+      style="background-color: white;"
       height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
       width="40" />
   </a>
   <a
@@ -303,6 +304,15 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       width="40" />
+  </a>
+ <a
+    href="https://mariadb.com/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="mariadb"
+      height="40"
+      src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"/>
   </a>
   <a
     href="https://www.postgresql.org"
@@ -476,21 +486,17 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"/>
   </a>
     <a
-    href="https://svelte.dev"
+    href="https://www.elastic.co/beats/filebeat"
     rel="noreferrer"
     target="_blank">
     <img
-      alt="Svelte"
+      alt="Filebeat"
       height="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"/>
+      src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg"/>
   </a>
 
 
   
-
-
-  
-
 
   
 
