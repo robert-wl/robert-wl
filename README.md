@@ -130,7 +130,7 @@
       width="40" />
   </a>
   <a
-    href="https://www.python.org"
+    href="https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction"
     rel="noreferrer"
     target="_blank">
     <img
@@ -139,6 +139,16 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       width="40" />
   </a>
+  <a
+    href="https://www.python.org"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="motoko"
+      height="40"
+      src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" />
+  </a>
+  
 </p>
 
 <h3 align="left">Tools and Frameworks:</h3>
@@ -494,10 +504,44 @@
       height="40"
       src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg"/>
   </a>
-
+    <a
+    href="https://goharbor.io"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Harbor Registry"
+      height="40"
+      src="https://static-00.iconduck.com/assets.00/harbor-icon-509x512-72v703ot.png"/>
+  </a>
+    <a
+    href="https://www.vaultproject.io"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Hashicorp Vault"
+      height="40"
+      src="https://grafana.com/media/solutions/vault-monitor/vault-logo.png"/>
+  </a>
+      <a
+    href="https://firebase.google.com"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Firebase"
+      height="40"
+      src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"/>
+  </a>
+      <a
+    href="https://internetcomputer.org"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Internet Computer"
+      width="40"
+      src="https://dev.icpl.app/_/img/logo-RGB.png"/>
+  </a>
 
   
-
   
 
 
