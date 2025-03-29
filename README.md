@@ -9,8 +9,9 @@
 <li>I have experience in Linux System Administration as I used to implement automated CI/CD deployment systems and also monitoring pipelines that has also been used in production.</li>
 </ul>
 
-
+<p style="font-size: 1rem">My Personal Web Portfolio: 🌍 <a href="https://robertwl.my.id">https://robertwl.my.id</a></p>
 <p style="font-size: 1rem">Reach me at: ✉️ <a href="mailto:robert.wiliam12345@gmail.com">robert.wiliam12345@gmail.com</a></p>
+
 
 <p align="left">
   <img
