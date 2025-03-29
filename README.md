@@ -2,11 +2,13 @@
 <hr />
 <p style="font-size: 1rem">
   I'm a passionate Full-Stack Engineer with a strong background in Software Engineering, DevOps, and Artificial Intelligence. 
-
-  I have years of experience working in a frontend and also backend development. The web applications that I have built and maintained has been used by thousands of users daily and thousand of users concurrently.
-  I also have many experience working with database systems, including building and also maintaining relational databases. 
-  Linux System Administration is also one of my expertise as I used to implement automated CI/CD deployment systems and also other monitoring pipelines that has also been used in production.
 </p>
+<ul>
+<li>I have years of experience working in a frontend and also backend development. The web applications that I have built and maintained has been used by thousands of users daily and thousand of users concurrently.</li>
+<li>I have many experience working with database systems, including building and also maintaining relational databases. </li>
+<li>I have experience in Linux System Administration as I used to implement automated CI/CD deployment systems and also monitoring pipelines that has also been used in production.</li>
+</ul>
+
 
 <p style="font-size: 1rem">Reach me at: ✉️ <a href="mailto:robert.wiliam12345@gmail.com">robert.wiliam12345@gmail.com</a></p>
 
