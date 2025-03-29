@@ -1,12 +1,12 @@
 <h1>Hi, I am Robert 👋</h1>
 <hr />
 <p style="font-size: 1rem">
-  I'm an undergraduate computer science student passionate about
-  <strong>Software Development</strong>, <strong>Web Technologies</strong>, <strong>Dev Ops</strong> and <strong>Artifical Intelligence</strong>. I enjoy exploring new
-  technologies, collaborating with others, and learn new things through projects.
-</p>
+  I'm a passionate Full-Stack Engineer with a strong background in Software Engineering, DevOps, and Artificial Intelligence. 
 
-<p style="font-size: 1rem">I am currently working at BINUS University as a Research and Development Staff.</p>
+  I have years of experience working in a frontend and also backend development. The web applications that I have built and maintained has been used by thousands of users daily and thousand of users concurrently.
+  I also have many experience working with database systems, including building and also maintaining relational databases. 
+  Linux System Administration is also one of my expertise as I used to implement automated CI/CD deployment systems and also other monitoring pipelines that has also been used in production.
+</p>
 
 <p style="font-size: 1rem">Reach me at: ✉️ <a href="mailto:robert.wiliam12345@gmail.com">robert.wiliam12345@gmail.com</a></p>
 
