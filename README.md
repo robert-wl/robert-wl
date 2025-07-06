@@ -137,19 +137,20 @@
     rel="noreferrer"
     target="_blank">
     <img
-      alt="python"
+      alt="motoko"
       height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      width="40" />
+      width="50"
+      src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" />
   </a>
   <a
     href="https://www.python.org"
     rel="noreferrer"
     target="_blank">
     <img
-      alt="motoko"
+      alt="python"
       height="40"
-      src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" />
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      width="40" />
   </a>
   
 </p>
@@ -324,6 +325,7 @@
     target="_blank">
     <img
       alt="mariadb"
+      width="50"
       height="40"
       src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"/>
   </a>
@@ -415,6 +417,7 @@
     <img
       alt="debezium"
       height="40"
+      width="40"
       src="https://camo.githubusercontent.com/ec9198c7fc32cb3537644b5fed366bc00db7d4e4212e52ef866a7e4099394b0e/68747470733a2f2f6d656469612e6772617068636d732e636f6d2f49726a6b6c41696a52766131734654617430704f" />
   </a>
   <a
@@ -424,6 +427,7 @@
     <img
       alt="elasticsearch"
       height="40"
+      width="40"
       src="https://www.nuget.org/profiles/elasticsearch/avatar?imageSize=512"/>
   </a>
   <a
@@ -433,6 +437,7 @@
     <img
       alt="kibana"
       height="40"
+      width="40"
       src="https://img.icons8.com/color/600/kibana.png"/>
   </a>
   <a
@@ -442,6 +447,7 @@
     <img
       alt="Apache Flink"
       height="40"
+      width="40"
       src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png"/>
   </a>
     <a
@@ -451,6 +457,7 @@
     <img
       alt="Github Actions"
       height="40"
+      width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg"/>
   </a>
     <a
@@ -460,6 +467,7 @@
     <img
       alt="Prometheus"
       height="40"
+      width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"/>
   </a>
     <a
@@ -469,6 +477,7 @@
     <img
       alt="Grafana"
       height="40"
+      width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"/>
   </a>
       <a
@@ -478,6 +487,7 @@
     <img
       alt="Ansible"
       height="40"
+      width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"/>
   </a>
     <a
@@ -487,6 +497,7 @@
     <img
       alt="Spring Boot"
       height="40"
+      width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
   </a>
     <a
@@ -496,6 +507,7 @@
     <img
       alt="AstroJS"
       height="40"
+      width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"/>
   </a>
     <a
@@ -505,6 +517,7 @@
     <img
       alt="Filebeat"
       height="40"
+      width="40"
       src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg"/>
   </a>
     <a
@@ -514,6 +527,7 @@
     <img
       alt="Harbor Registry"
       height="40"
+      width="40"
       src="https://static-00.iconduck.com/assets.00/harbor-icon-509x512-72v703ot.png"/>
   </a>
     <a
@@ -523,6 +537,7 @@
     <img
       alt="Hashicorp Vault"
       height="40"
+      width="40"
       src="https://grafana.com/media/solutions/vault-monitor/vault-logo.png"/>
   </a>
       <a
@@ -532,6 +547,7 @@
     <img
       alt="Firebase"
       height="40"
+      width="40"
       src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"/>
   </a>
       <a
@@ -540,7 +556,8 @@
     target="_blank">
     <img
       alt="Internet Computer"
-      width="40"
+      width="50"
+      height="40"
       src="https://dev.icpl.app/_/img/logo-RGB.png"/>
   </a>
 
