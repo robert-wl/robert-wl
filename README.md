@@ -23,26 +23,6 @@
 <hr />
 <p align="left">
   <a
-    href="https://www.cprogramming.com/"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="c"
-      height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      width="40" />
-  </a>
-  <a
-    href="https://www.w3schools.com/cpp/"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="cplusplus"
-      height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      width="40" />
-  </a>
-  <a
     href="https://www.w3schools.com/cs/"
     rel="noreferrer"
     target="_blank">
@@ -50,16 +30,6 @@
       alt="csharp"
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      width="40" />
-  </a>
-  <a
-    href="https://dart.dev"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="dart"
-      height="40"
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
       width="40" />
   </a>
   <a
