@@ -1,17 +1,12 @@
-<h1>Hi, I am Robert 👋</h1>
+<h1>Hello, I'm Robert 👋</h1>
 <hr />
 <p style="font-size: 1rem">
-  I'm a passionate Full-Stack Engineer with a strong background in Software Engineering, DevOps, and Artificial Intelligence. 
+  Full-Stack Engineer specializing in scalable backend systems, real-time data pipelines, and high-load production environments. Experienced in building distributed data synchronization pipelines, optimizing backend performance, as well as delivering fullstack applications. 
+
 </p>
-<ul>
-<li>I have years of experience working in a frontend and also backend development. The web applications that I have built and maintained has been used by thousands of users daily and thousand of users concurrently.</li>
-<li>I have many experience working with database systems, including building and also maintaining relational databases. </li>
-<li>I have experience in Linux System Administration as I used to implement automated CI/CD deployment systems and also monitoring pipelines that has also been used in production.</li>
-</ul>
 
 <p style="font-size: 1rem">My Personal Web Portfolio: 🌍 <a href="https://robertwl.my.id">https://robertwl.my.id</a></p>
 <p style="font-size: 1rem">Reach me at: ✉️ <a href="mailto:robert.wiliam12345@gmail.com">robert.wiliam12345@gmail.com</a></p>
-
 
 <p align="left">
   <img
@@ -50,16 +45,6 @@
       alt="java"
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      width="40" />
-  </a>
-  <a
-    href="https://kotlinlang.org"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="kotlin"
-      height="40"
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
       width="40" />
   </a>
   <a
@@ -103,16 +88,6 @@
       width="40" />
   </a>
   <a
-    href="https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="motoko"
-      height="40"
-      width="50"
-      src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" />
-  </a>
-  <a
     href="https://www.python.org"
     rel="noreferrer"
     target="_blank">
@@ -128,16 +103,6 @@
 <h3 align="left">Tools and Frameworks:</h3>
 <hr />
 <p align="left">
-  <a
-    href="https://developer.android.com"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="android"
-      height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      width="40" />
-  </a>
   <a
     href="https://www.docker.com/"
     rel="noreferrer"
@@ -240,16 +205,6 @@
       width="40" />
   </a>
   <a
-    href="https://pugjs.org"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="pug"
-      height="40"
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-      width="40" />
-  </a>
-  <a
     href="https://reactjs.org/"
     rel="noreferrer"
     target="_blank">
@@ -320,16 +275,6 @@
       width="40" />
   </a>
   <a
-    href="https://sass-lang.com"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="sass"
-      height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      width="40" />
-  </a>
-  <a
     href="https://tailwindcss.com/"
     rel="noreferrer"
     target="_blank">
@@ -339,26 +284,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
       width="40"
     />
-  </a>
-  <a
-    href="https://scikit-learn.org/"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="scikit_learn"
-      height="40"
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      width="40" />
-  </a>
-  <a
-    href="https://www.tensorflow.org"
-    rel="noreferrer"
-    target="_blank">
-    <img
-      alt="tensorflow"
-      height="40"
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      width="40" />
   </a>
   <a
     href="https://kafka.apache.org"
@@ -498,7 +423,7 @@
       alt="Harbor Registry"
       height="40"
       width="40"
-      src="https://static-00.iconduck.com/assets.00/harbor-icon-509x512-72v703ot.png"/>
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original.svg"/>
   </a>
     <a
     href="https://www.vaultproject.io"
@@ -520,34 +445,57 @@
       width="40"
       src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"/>
   </a>
-      <a
-    href="https://internetcomputer.org"
+     <a
+    href="https://dagster.io/"
     rel="noreferrer"
     target="_blank">
     <img
-      alt="Internet Computer"
-      width="50"
+      alt="Dagster"
       height="40"
-      src="https://dev.icpl.app/_/img/logo-RGB.png"/>
+      width="40"
+      src="https://raw.githubusercontent.com/gist/bollwyvl/0fe7a6f89251992ab1a542ac2b4051c4/raw/98a5bfa2065068440f2a8efecb57d7b65a8075b3/dagster.svg"/>
+  </a>
+     <a
+    href="https://www.inngest.com/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Inngest"
+      height="40"
+      width="40"
+      src="https://avatars.githubusercontent.com/u/78935958?s=48&v=4"/>
+  </a>
+     <a
+    href="https://us5.datadoghq.com/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Datadog"
+      height="40"
+      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg"/>
+  </a>
+       <a
+    href="https://supabase.com/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Supabase"
+      height="40"
+      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
+  </a>
+  <a
+    href="https://posthog.com/"
+    rel="noreferrer"
+    target="_blank">
+    <img
+      alt="Posthog"
+      height="40"
+      width="40"
+      src="https://logo.svgcdn.com/logos/posthog-icon.png"/>
   </a>
 
   
-  
 
-
-  
-</p>
-
-<p>
-  <img
-    align="left"
-    alt="robert-wl"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-wl&locale=en&theme=merko&layout=compact" />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    alt="robert-wl"
-    src="https://github-readme-stats.vercel.app/api?username=robert-wl&show_icons=true&locale=en&theme=merko" />
 </p>
