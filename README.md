@@ -8,7 +8,7 @@
 <p style="font-size: 1rem">My Personal Web Portfolio: 🌍 <a href="https://robertwl.my.id">https://robertwl.my.id</a></p>
 <p style="font-size: 1rem">Reach me at: ✉️ <a href="mailto:robert.wiliam12345@gmail.com">robert.wiliam12345@gmail.com</a></p>
 
-<p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img
     alt="robert-wl"
     src="https://komarev.com/ghpvc/?username=robert-wl&label=Profile%20views&color=0e75b6&style=flat" />
@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages:</h3>
 <hr />
-<p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a
     href="https://www.w3schools.com/cs/"
     rel="noreferrer"
@@ -98,11 +98,11 @@
       width="40" />
   </a>
   
-</p>
+</div>
 
 <h3 align="left">Tools and Frameworks:</h3>
 <hr />
-<p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a
     href="https://www.docker.com/"
     rel="noreferrer"
@@ -498,4 +498,4 @@
 
   
 
-</p>
+</div>
