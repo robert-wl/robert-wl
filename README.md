@@ -8,7 +8,7 @@
 <p style="font-size: 1rem">My Personal Web Portfolio: 🌍 <a href="https://robertwl.my.id">https://robertwl.my.id</a></p>
 <p style="font-size: 1rem">Reach me at: ✉️ <a href="mailto:robert.wiliam12345@gmail.com">robert.wiliam12345@gmail.com</a></p>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<p align="left">
   <img
     alt="robert-wl"
     src="https://komarev.com/ghpvc/?username=robert-wl&label=Profile%20views&color=0e75b6&style=flat" />
@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages:</h3>
 <hr />
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<p align="left">
   <a
     href="https://www.w3schools.com/cs/"
     rel="noreferrer"
@@ -26,7 +26,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://golang.org"
     rel="noreferrer"
@@ -36,7 +36,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.java.com"
     rel="noreferrer"
@@ -46,7 +46,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.php.net"
     rel="noreferrer"
@@ -56,7 +56,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.rust-lang.org"
     rel="noreferrer"
@@ -66,7 +66,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     rel="noreferrer"
@@ -76,7 +76,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.typescriptlang.org/"
     rel="noreferrer"
@@ -86,7 +86,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.python.org"
     rel="noreferrer"
@@ -98,11 +98,11 @@
       width="40" />
   </a>
   
-</div>
+</p>
 
 <h3 align="left">Tools and Frameworks:</h3>
 <hr />
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<p align="left">
   <a
     href="https://www.docker.com/"
     rel="noreferrer"
@@ -112,7 +112,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://nodejs.org"
     rel="noreferrer"
@@ -122,7 +122,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://dotnet.microsoft.com/"
     rel="noreferrer"
@@ -132,7 +132,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://laravel.com/"
     rel="noreferrer"
@@ -142,7 +142,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://expressjs.com"
     rel="noreferrer"
@@ -153,7 +153,7 @@
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://flask.palletsprojects.com/"
     rel="noreferrer"
@@ -163,7 +163,7 @@
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://nestjs.com/"
     rel="noreferrer"
@@ -173,7 +173,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://graphql.org"
     rel="noreferrer"
@@ -183,7 +183,7 @@
       height="40"
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.electronjs.org"
     rel="noreferrer"
@@ -193,7 +193,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://tauri.app/"
     rel="noreferrer"
@@ -203,7 +203,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://reactjs.org/"
     rel="noreferrer"
@@ -213,7 +213,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://svelte.dev"
     rel="noreferrer"
@@ -223,7 +223,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.microsoft.com/en-us/sql-server"
     rel="noreferrer"
@@ -233,7 +233,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.mysql.com/"
     rel="noreferrer"
@@ -253,7 +253,7 @@
       width="50"
       height="40"
       src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"/>
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.postgresql.org"
     rel="noreferrer"
@@ -263,7 +263,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://redis.io"
     rel="noreferrer"
@@ -273,7 +273,7 @@
       height="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://tailwindcss.com/"
     rel="noreferrer"
@@ -284,7 +284,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
       width="40"
     />
-  </a>
+  </a>&nbsp;
   <a
     href="https://kafka.apache.org"
     rel="noreferrer"
@@ -304,7 +304,7 @@
       height="40"
       src="https://d7umqicpi7263.cloudfront.net/img/product/cf44cd46-40d8-484c-a7e4-9777b7cdba42.com/48fa3beb796c991ced4b7f025b2981fa"
       width="40" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://debezium.io"
     rel="noreferrer"
@@ -314,7 +314,7 @@
       height="40"
       width="40"
       src="https://camo.githubusercontent.com/ec9198c7fc32cb3537644b5fed366bc00db7d4e4212e52ef866a7e4099394b0e/68747470733a2f2f6d656469612e6772617068636d732e636f6d2f49726a6b6c41696a52766131734654617430704f" />
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.elastic.co/elasticsearch"
     rel="noreferrer"
@@ -324,7 +324,7 @@
       height="40"
       width="40"
       src="https://www.nuget.org/profiles/elasticsearch/avatar?imageSize=512"/>
-  </a>
+  </a>&nbsp;
   <a
     href="https://www.elastic.co/kibana"
     rel="noreferrer"
@@ -334,7 +334,7 @@
       height="40"
       width="40"
       src="https://img.icons8.com/color/600/kibana.png"/>
-  </a>
+  </a>&nbsp;
   <a
     href="https://flink.apache.org"
     rel="noreferrer"
@@ -484,7 +484,7 @@
       height="40"
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
-  </a>
+  </a>&nbsp;
   <a
     href="https://posthog.com/"
     rel="noreferrer"
@@ -498,4 +498,4 @@
 
   
 
-</div>
+</p>
